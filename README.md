@@ -1,8 +1,21 @@
-# React + Vite
+# 🎵 Noise Playground 🎵
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O **Noise Playground** é um aplicativo simples desenvolvido com **React** que permite aos usuários tocar e pausar diferentes sons de uma lista. Ele oferece uma interface interativa para tocar sons como "Airhorn", "Aplausos", "Risada" e "Gato Rindo". Ideal para quem gosta de se divertir com sons divertidos e inesperados!
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Tocar diferentes sons ao clicar nos botões.
+- Pausar o áudio que está sendo reproduzido.
+- Interface agradável e responsiva utilizando **Tailwind CSS**.
+
+## Tecnologias Utilizadas
+
+- **React**: Biblioteca JavaScript para construção da interface.
+- **Tailwind CSS**: Framework CSS para estilização responsiva e moderna.
+- **JavaScript (ES6)**: Para manipulação dos áudios e controle dos eventos.
+
+## Como Rodar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/dayvisonmsilva/ProjetoBarulhento.git
